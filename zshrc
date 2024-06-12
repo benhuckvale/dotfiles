@@ -9,4 +9,5 @@ if [ -d "$DIR" ]; then
     source $DIR/colours.zsh
     source $DIR/prompt.zsh
     source $DIR/aliases.zsh
+    source $DIR/setpath.zsh
 fi
