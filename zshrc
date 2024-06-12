@@ -10,4 +10,5 @@ if [ -d "$DIR" ]; then
     source $DIR/prompt.zsh
     source $DIR/aliases.zsh
     source $DIR/setpath.zsh
+    source $DIR/conan_version.zsh
 fi
